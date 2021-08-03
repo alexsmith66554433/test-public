@@ -17,7 +17,3 @@ jobs:
       script: sleep 30
       vm:
         size: medium
-notifications:
-  email:
-    - shairyarbaig@gmail.com
-    - shairyarbaig@gmail.com
